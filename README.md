@@ -53,3 +53,10 @@ df2_new
 
 ```
 ## output
+output1:![image](https://user-images.githubusercontent.com/94165326/161598657-e07d7ff7-ef33-4302-ab65-6f26c496ece3.png)
+output2:![image](https://user-images.githubusercontent.com/94165326/161598801-3add0019-6ea3-4e83-b0e6-293d7ab78bb9.png)
+output3:![image](https://user-images.githubusercontent.com/94165326/161598880-884bded2-60d3-48c4-8b20-62290f0b357d.png)
+output4:![image](https://user-images.githubusercontent.com/94165326/161599059-a305c92a-41bc-4fea-9c4a-c058c1b841ef.png)
+output5:![image](https://user-images.githubusercontent.com/94165326/161599359-da0983ba-f931-4bc6-b1b8-8eb5e9666bc9.png)
+## RESULT:
+The Outliers are detected and removed from the Dataset.
